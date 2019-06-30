@@ -62,7 +62,7 @@ $string['server'] = 'Server di IntelliBoard';
 $string['server_usa'] = 'IntelliBoard USA';
 $string['server_au'] = 'IntelliBoard Australia';
 $string['server_eu'] = 'IntelliBoard Europa';
-$string['show_dashboard_tab'] = 'Mostra linguetta Dashboard';
+$string['show_dashboard_tab'] = 'Pagina Dashboard';
 $string['filters'] = 'Dashboard filtri';
 $string['filter1'] = 'Utenti eliminati';
 $string['filter2'] = 'Utenti sospesi';
@@ -725,7 +725,7 @@ $string['support_close'] = "Chiudi";
 $string['instructor_custom_groups'] = "Gruppi personalizzati docente";
 
 // settings of tables
-$string['table_set_icg'] = 'Tabella del docente "Valutazioni corso"';
+$string['table_set_icg'] = 'Corsi del Docente';
 $string['table_set_icg_c1'] = 'Nome Corso';
 $string['table_set_icg_c2'] = 'Nome breve';
 $string['table_set_icg_c3'] = 'Categoria';
@@ -735,9 +735,10 @@ $string['table_set_icg_c6'] = 'Sezioni';
 $string['table_set_icg_c7'] = 'Attività/Risorse';
 $string['table_set_icg_c8'] = 'Visite';
 $string['table_set_icg_c9'] = 'Tempo impiegato';
-$string['table_set_icg_c10'] = 'Azioni';
+$string['table_set_icg_c11'] = 'Azioni – Attività';
+$string['table_set_icg_c12'] = 'Azioni – Studenti';
 
-$string['table_set_ilg'] = 'Tabella del docente "Valutazioni studente"';
+$string['table_set_ilg'] = 'Corsi del Docente > Studenti';
 $string['table_set_ilg_c1'] = 'Nome Studente';
 $string['table_set_ilg_c2'] = 'Indirizzo email';
 $string['table_set_ilg_c3'] = 'Iscritto';
@@ -749,7 +750,7 @@ $string['table_set_ilg_c8'] = 'Visite';
 $string['table_set_ilg_c9'] = 'Tempo impiegato';
 $string['table_set_ilg_c10'] = 'Azioni';
 
-$string['table_set_ilg1'] = 'Tabella del docente "Valutazioni studente"';
+$string['table_set_ilg1'] = 'Corsi del Docente > Studenti > Valutazioni';
 $string['table_set_ilg1_c1'] = 'Nome Attività';
 $string['table_set_ilg1_c2'] = 'Tipo';
 $string['table_set_ilg1_c3'] = 'Valutazione';
@@ -758,7 +759,7 @@ $string['table_set_ilg1_c5'] = 'Stato';
 $string['table_set_ilg1_c6'] = 'Visite';
 $string['table_set_ilg1_c7'] = 'Tempo impiegato';
 
-$string['table_set_iag'] = 'Tabella del docente "Valutazioni attività"';
+$string['table_set_iag'] = 'Corsi del Docente > Attività';
 $string['table_set_iag_c1'] = 'Nome Attività';
 $string['table_set_iag_c2'] = 'Tipo';
 $string['table_set_iag_c3'] = 'Studenti completati';
@@ -767,7 +768,7 @@ $string['table_set_iag_c5'] = 'Visite';
 $string['table_set_iag_c6'] = 'Tempo impiegato';
 $string['table_set_iag_c7'] = 'Azioni';
 
-$string['table_set_iag1'] = 'Tabella del docente "Valutazioni attività';
+$string['table_set_iag1'] = 'Corsi del Docente > Attività > Valutazioni';
 $string['table_set_iag1_c1'] = 'Nome Studente';
 $string['table_set_iag1_c2'] = 'Indirizzo email';
 $string['table_set_iag1_c3'] = 'Stato';
@@ -775,3 +776,7 @@ $string['table_set_iag1_c4'] = 'Valutazione';
 $string['table_set_iag1_c5'] = 'Valutato';
 $string['table_set_iag1_c6'] = 'Visite';
 $string['table_set_iag1_c7'] = 'Tempo impiegato';
+
+$string['student_grades'] = 'Valutazioni Studente';
+$string['grid_view'] = 'Vista a griglia';
+$string['list_view'] = 'Vista a lista';
